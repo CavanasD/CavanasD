@@ -1,7 +1,7 @@
-## Cavanas.D.. | A CSer👋
-<p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
+
+<p align="center"><img align="center" width="280" src="./.github/text-logo-dark.svg#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
-<h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
+<h3 align="center">A New CSer. For Happy Developing Life.</h3>
 <hr>
 <!--
 **CavanasD/CavanasD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
