@@ -6,8 +6,9 @@
 </h1>
 <h2 align='center'>Hello!<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 <hr>
-  <img src="./.github/bkg.jpg">
-  
+  <img src="https://raw.githubusercontent.com/CavanasD/CavanasD/main/.github/bkg.jpg">
+
+
 ```
    ____                    _____                          _ 
   / __ \                  / ____|                        | |
