@@ -9,25 +9,5 @@
   <img src="https://raw.githubusercontent.com/CavanasD/CavanasD/main/.github/bkg.jpg">
 
 
-```
-   ____                    _____                          _ 
-  / __ \                  / ____|                        | |
- | |  | |_ __   ___ _ __ | (___   ___  _   _ _ __ ___ ___| |
- | |  | | '_ \ / _ \ '_ \ \___ \ / _ \| | | | '__/ __/ _ \ |
- | |__| | |_) |  __/ | | |____) | (_) | |_| | | | (_|  __/_|
-  \____/| .__/ \___|_| |_|_____/ \___/ \__,_|_|  \___\___(_)
-        | |                                                 
-  ______|_|      _     _   _                                
- |  ____(_)     | |   | | | |                               
- | |__   _  __ _| |__ | |_| |                               
- |  __| | |/ _` | '_ \| __| |                               
- | |    | | (_| | | | | |_|_|                               
- |_|    |_|\__, |_| |_|\__(_)                               
-            __/ |                                           
-           |___/                                            
-
-       
-```
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Getting Ready to the University
+- 🌱 I’m currently learning CSS, js, VUE
