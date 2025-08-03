@@ -10,4 +10,5 @@
 
 
 - 🔭 I’m currently working on Getting Ready to the University
-- 🌱 I’m currently learning CSS, js, VUE
+- 🌱 I’m currently learning CTF-pwn direction.
+- 
