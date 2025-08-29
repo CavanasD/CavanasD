@@ -9,6 +9,6 @@
   <img src="https://raw.githubusercontent.com/CavanasD/CavanasD/main/.github/bkg.jpg">
 
 
-- 🔭 I’m currently working on Getting Ready to the University
+- 🔭 Studying Algorithm.
 - 🌱 I’m currently learning CTF-pwn direction.
-- 
+- A UESTC Student
