@@ -1,4 +1,4 @@
-name: GitHub-Profile-3D-Contrib
+name: Generate Repo Cards
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
       - ".github/cards/**"
       - "profile-3d-contrib/**"
   schedule:
-    - cron: "0 18 * * *"
+    - cron: "20 18 * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,21 +17,21 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: generate-repo-cards
     steps:
       - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Generate cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit and push profile image
+        run: python .github/scripts/generate-repo-cards.py
+      - name: Commit and push cards
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A profile-3d-contrib
+          git add -A .github/cards
           if git diff --cached --quiet; then
-            echo "No profile image changes."
+            echo "No repo card changes."
           else
-            git commit -m "chore: update 3d contribution profile"
+            git commit -m "chore: update repo cards"
             git push
           fi

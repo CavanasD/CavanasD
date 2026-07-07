@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="190" viewBox="0 0 520 190" role="img" aria-labelledby="title desc">
+  <title id="title">ThesisDrive</title>
+  <desc id="desc">A UESTC freshman innovation project about cloud-drive attack and defense.</desc>
+  <defs>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#6e7781" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="518" height="188" rx="8" fill="#ffffff" stroke="#d0d7de" filter="url(#shadow)"/>
+  <circle cx="28" cy="32" r="8" fill="#41b883"/>
+  <text x="48" y="39" fill="#0969da" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">ThesisDrive</text>
+  <text x="24" y="55" fill="#57606a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">CavanasD/ThesisDrive · Pinned project</text>
+  <text x="24" y="71" fill="#24292f" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">A UESTC freshman innovation project about cloud-drive attack and defense.</text>
+  <rect x="24" y="114" width="380" height="8" rx="4" fill="#f6f8fa"/>
+  <rect x="24" y="114" width="250" height="8" rx="4" fill="#41b883"/><rect x="274" y="114" width="101" height="8" rx="4" fill="#563d7c"/><rect x="375" y="114" width="28" height="8" rx="4" fill="#f1e05a"/>
+  <text x="418" y="122" fill="#57606a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">Vue</text>
+  <g><rect x="24" y="142" width="62" height="25" rx="12.5" fill="#f6f8fa" stroke="#d0d7de"/><text x="36" y="159" fill="#57606a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">stars 4</text></g><g><rect x="94" y="142" width="62" height="25" rx="12.5" fill="#f6f8fa" stroke="#d0d7de"/><text x="106" y="159" fill="#57606a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">forks 0</text></g><g><rect x="164" y="142" width="62" height="25" rx="12.5" fill="#f6f8fa" stroke="#d0d7de"/><text x="176" y="159" fill="#57606a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">issues 0</text></g><g><rect x="234" y="142" width="95" height="25" rx="12.5" fill="#f6f8fa" stroke="#d0d7de"/><text x="246" y="159" fill="#57606a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">pushed 2026-05-25</text></g>
+</svg>

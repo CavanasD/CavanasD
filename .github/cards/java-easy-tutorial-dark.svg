@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="190" viewBox="0 0 520 190" role="img" aria-labelledby="title desc">
+  <title id="title">Java-easy-tutorial</title>
+  <desc id="desc">Java notes and source code collected along my learning journey.</desc>
+  <defs>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="518" height="188" rx="8" fill="#0d1117" stroke="#30363d" filter="url(#shadow)"/>
+  <circle cx="28" cy="32" r="8" fill="#b07219"/>
+  <text x="48" y="39" fill="#58a6ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">Java-easy-tutorial</text>
+  <text x="24" y="55" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">CavanasD/Java-easy-tutorial · Learning notes</text>
+  <text x="24" y="71" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Java notes and source code collected along my learning journey.</text>
+  <rect x="24" y="114" width="380" height="8" rx="4" fill="#161b22"/>
+  <rect x="24" y="114" width="380" height="8" rx="4" fill="#b07219"/>
+  <text x="418" y="122" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">Java</text>
+  <g><rect x="24" y="142" width="62" height="25" rx="12.5" fill="#161b22" stroke="#30363d"/><text x="36" y="159" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">stars 1</text></g><g><rect x="94" y="142" width="62" height="25" rx="12.5" fill="#161b22" stroke="#30363d"/><text x="106" y="159" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">forks 0</text></g><g><rect x="164" y="142" width="62" height="25" rx="12.5" fill="#161b22" stroke="#30363d"/><text x="176" y="159" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">issues 0</text></g><g><rect x="234" y="142" width="95" height="25" rx="12.5" fill="#161b22" stroke="#30363d"/><text x="246" y="159" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">pushed 2026-02-23</text></g>
+</svg>
