@@ -27,7 +27,7 @@ Learning security through mobile internals, firmware research, reverse engineeri
 
 <p>
   <a href="https://github.com/CavanasD/ThesisDrive">
-    <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=CavanasD&repo=ThesisDrive&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=7EE787&text_color=C9D1D9&icon_color=58A6FF" alt="ThesisDrive pinned repository" />
+    <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=CavanasD&repo=ThesisDrive" alt="ThesisDrive pinned repository" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@ These are notes from my learning journey, and I keep updating them in my spare t
 
 <p>
   <a href="https://github.com/CavanasD/Java-easy-tutorial">
-    <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=CavanasD&repo=Java-easy-tutorial&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=7EE787&text_color=C9D1D9&icon_color=58A6FF" alt="Java-easy-tutorial notes repository" />
+    <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=CavanasD&repo=Java-easy-tutorial" alt="Java-easy-tutorial notes repository" />
   </a>
 </p>
 
@@ -67,6 +67,12 @@ These are notes from my learning journey, and I keep updating them in my spare t
 
 <p>
   <img src="https://skillicons.dev/icons?i=anaconda,idea,vscode" alt="Anaconda, IntelliJ IDEA, VS Code" />
+</p>
+
+### 3D Green Wall
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="90%" alt="3D green contribution wall" />
 </p>
 
 ### Public Key
