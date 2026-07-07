@@ -26,8 +26,11 @@ Learning security through mobile internals, firmware research, reverse engineeri
 ### Pinned Project
 
 <a href="https://github.com/CavanasD/ThesisDrive">
-  <img src="./.github/cards/thesisdrive-dark.svg#gh-dark-mode-only" width="520" alt="ThesisDrive pinned repository" />
-  <img src="./.github/cards/thesisdrive-light.svg#gh-light-mode-only" width="520" alt="ThesisDrive pinned repository" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/cards/thesisdrive-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./.github/cards/thesisdrive-light.svg">
+    <img src="./.github/cards/thesisdrive-light.svg" width="520" alt="ThesisDrive pinned repository" />
+  </picture>
 </a>
 
 ### Notes
@@ -35,8 +38,11 @@ Learning security through mobile internals, firmware research, reverse engineeri
 These are notes from my learning journey, and I keep updating them in my spare time.
 
 <a href="https://github.com/CavanasD/Java-easy-tutorial">
-  <img src="./.github/cards/java-easy-tutorial-dark.svg#gh-dark-mode-only" width="520" alt="Java-easy-tutorial notes repository" />
-  <img src="./.github/cards/java-easy-tutorial-light.svg#gh-light-mode-only" width="520" alt="Java-easy-tutorial notes repository" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/cards/java-easy-tutorial-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./.github/cards/java-easy-tutorial-light.svg">
+    <img src="./.github/cards/java-easy-tutorial-light.svg" width="520" alt="Java-easy-tutorial notes repository" />
+  </picture>
 </a>
 
 ### Skills
@@ -99,6 +105,9 @@ SXfoI1oA/jFa31he+G9GHvxWLWNfzeLQNS1zj1mQSxyVa7dB/P4A
 </details>
 
 <p align="center">
-  <img src="./.github/motto-calligraphy-dark.svg#gh-dark-mode-only" width="82%" alt="纸上得来终觉浅，绝知此事要躬行" />
-  <img src="./.github/motto-calligraphy-light.svg#gh-light-mode-only" width="82%" alt="纸上得来终觉浅，绝知此事要躬行" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/motto-calligraphy-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./.github/motto-calligraphy-light.svg">
+    <img src="./.github/motto-calligraphy-light.svg" width="82%" alt="纸上得来终觉浅，绝知此事要躬行" />
+  </picture>
 </p>
