@@ -25,21 +25,13 @@ Learning security through mobile internals, firmware research, reverse engineeri
 
 ### Pinned Project
 
-<p>
-  <a href="https://github.com/CavanasD/ThesisDrive">
-    <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=CavanasD&repo=ThesisDrive" alt="ThesisDrive pinned repository" />
-  </a>
-</p>
+[![ThesisDrive](https://github-readme-stats.vercel.app/api/pin/?username=CavanasD&repo=ThesisDrive)](https://github.com/CavanasD/ThesisDrive)
 
 ### Notes
 
 These are notes from my learning journey, and I keep updating them in my spare time.
 
-<p>
-  <a href="https://github.com/CavanasD/Java-easy-tutorial">
-    <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=CavanasD&repo=Java-easy-tutorial" alt="Java-easy-tutorial notes repository" />
-  </a>
-</p>
+[![Java-easy-tutorial](https://github-readme-stats.vercel.app/api/pin/?username=CavanasD&repo=Java-easy-tutorial)](https://github.com/CavanasD/Java-easy-tutorial)
 
 ### Skills
 
