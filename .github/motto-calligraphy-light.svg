@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="140" viewBox="0 0 1100 140" role="img" aria-labelledby="title desc">
+  <title id="title">纸上得来终觉浅，绝知此事要躬行</title>
+  <desc id="desc">Black motto text rendered with 汉仪国图创新红楼梦 45U for light mode.</desc>
+  <style>
+    @font-face {
+      font-family: "HYHongLouMeng45U";
+      src: local("汉仪国图创新红楼梦 45U");
+    }
+  </style>
+  <text x="550" y="88"
+    text-anchor="middle"
+    font-family="HYHongLouMeng45U, '汉仪国图创新红楼梦 45U', serif"
+    font-size="66"
+    font-weight="400"
+    fill="#000000">纸上得来终觉浅，绝知此事要躬行</text>
+</svg>

@@ -1,14 +1,100 @@
-
 <p align="center"><img align="center" width="280" src="./.github/text-logo-dark.svg#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
-<h3 align="center">A New CSer. For A Happy Developing Life.</h3>
-<hr>
-</h1>
-<h2 align='center'>Hello!<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-<hr>
-  <img src="https://raw.githubusercontent.com/CavanasD/CavanasD/main/.github/bkg.jpg">
 
+<div align="center">
+  <img src="./.github/profile-cover.png" width="86%" alt="CavanasD profile cover" />
 
-- 🔭 Studying Algorithm.
-- 🌱 I’m currently learning CTF-pwn direction.
-- A UESTC Student
+  <p>
+    <a href="https://n1n3bird.top">
+      <img src="https://img.shields.io/badge/Blog-n1n3bird.top-0e8f55?style=flat-square&logo=googlechrome&logoColor=white" alt="Blog: n1n3bird.top" />
+    </a>
+    <a href="mailto:n1n3bird@163.com">
+      <img src="https://img.shields.io/badge/Email-n1n3bird%40163.com-1f6feb?style=flat-square&logo=maildotru&logoColor=white" alt="Email: n1n3bird@163.com" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=CavanasD&style=flat-square&color=0e8f55" alt="profile views" />
+  </p>
+</div>
+
+### About Me
+
+Android Mobile Security | Firmware Security | CTF Binary: Reverse / Pwn
+
+University of Electronic Science and Technology of China | [@YulinSec](https://github.com/YulinSec)
+
+Learning security through mobile internals, firmware research, reverse engineering, pwn, and CTF practice.
+
+### Pinned Project
+
+<p>
+  <a href="https://github.com/CavanasD/ThesisDrive">
+    <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=CavanasD&repo=ThesisDrive&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=7EE787&text_color=C9D1D9&icon_color=58A6FF" alt="ThesisDrive pinned repository" />
+  </a>
+</p>
+
+### Notes
+
+These are notes from my learning journey, and I keep updating them in my spare time.
+
+<p>
+  <a href="https://github.com/CavanasD/Java-easy-tutorial">
+    <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=CavanasD&repo=Java-easy-tutorial&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=7EE787&text_color=C9D1D9&icon_color=58A6FF" alt="Java-easy-tutorial notes repository" />
+  </a>
+</p>
+
+### Skills
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,kotlin,rust" alt="Java, C, C++, Python, JavaScript, Kotlin, Rust" />
+</p>
+
+**Mobile, Binary, and Systems**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=android,linux,ubuntu,arch" alt="Android, Linux, Ubuntu, Arch Linux" />
+</p>
+
+<sub>Yes, I use Arch btw.</sub>
+
+**Web and Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,html,css" alt="Vue, HTML, CSS" />
+</p>
+
+**Tooling**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=anaconda,idea,vscode" alt="Anaconda, IntelliJ IDEA, VS Code" />
+</p>
+
+### Public Key
+
+<details>
+<summary>PGP public key for n1n3bird@163.com</summary>
+
+```text
+Fingerprint: F8BD 0866 4F75 AC8F CA1C 7443 0A65 0A1C 4CE2 7AD6
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEakzyLRYJKwYBBAHaRw8BAQdA50rEhlSN5HF7NYgKctZdwQYRuzSUXNXBei3T
+vZ9ItHy0G24xbjNiaXJkIDxuMW4zYmlyZEAxNjMuY29tPoiZBBMWCgBBFiEE+L0I
+Zk91rI/KHHRDCmUKHEzietYFAmpM8i0CGwMFCQPCZwAFCwkIBwICIgIGFQoJCAsC
+BBYCAwECHgcCF4AACgkQCmUKHEzietYddAEA0ZIjxoVvehxnsa9QYII4XbZdp4Oz
+X3JISWVv4Tu32o0A/irSpLMLuXJHUlvsfIU7lqGE1G/8NaQ1YYIjXOw14FkMuDgE
+akzyQBIKKwYBBAGXVQEFAQEHQJ/vM/S/Z6T81hQErYhWkraW0igQPCPtaG1QiAcD
+LrkFAwEIB4h+BBgWCgAmFiEE+L0IZk91rI/KHHRDCmUKHEzietYFAmpM8kACGwwF
+CQPCZwAACgkQCmUKHEzietbDXgD6AnwzPOajZC4DWZyF3UXmn2Wb7vEEVWI88ARG
+SXfoI1oA/jFa31he+G9GHvxWLWNfzeLQNS1zj1mQSxyVa7dB/P4A
+=znf6
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+</details>
+
+<p align="center">
+  <img src="./.github/motto-calligraphy-dark.svg#gh-dark-mode-only" width="82%" alt="纸上得来终觉浅，绝知此事要躬行" />
+  <img src="./.github/motto-calligraphy-light.svg#gh-light-mode-only" width="82%" alt="纸上得来终觉浅，绝知此事要躬行" />
+</p>
