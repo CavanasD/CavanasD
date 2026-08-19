@@ -104,10 +104,3 @@ SXfoI1oA/jFa31he+G9GHvxWLWNfzeLQNS1zj1mQSxyVa7dB/P4A
 
 </details>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./.github/motto-calligraphy-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./.github/motto-calligraphy-light.svg">
-    <img src="./.github/motto-calligraphy-light.svg" width="82%" alt="纸上得来终觉浅，绝知此事要躬行" />
-  </picture>
-</p>
