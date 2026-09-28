@@ -23,27 +23,6 @@ University of Electronic Science and Technology of China | [@YulinSec](https://g
 
 Learning security through mobile internals, firmware research, reverse engineering, pwn, and CTF practice.
 
-### Pinned Project
-
-<a href="https://github.com/CavanasD/ThesisDrive">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./.github/cards/thesisdrive-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./.github/cards/thesisdrive-light.svg">
-    <img src="./.github/cards/thesisdrive-light.svg" width="520" alt="ThesisDrive pinned repository" />
-  </picture>
-</a>
-
-### Notes
-
-These are notes from my learning journey, and I keep updating them in my spare time.
-
-<a href="https://github.com/CavanasD/Java-easy-tutorial">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./.github/cards/java-easy-tutorial-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./.github/cards/java-easy-tutorial-light.svg">
-    <img src="./.github/cards/java-easy-tutorial-light.svg" width="520" alt="Java-easy-tutorial notes repository" />
-  </picture>
-</a>
 
 ### Skills
 
