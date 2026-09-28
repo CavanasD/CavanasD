@@ -58,28 +58,5 @@ Learning security through mobile internals, firmware research, reverse engineeri
   <img src="./profile-3d-contrib/profile-night-green.svg" width="90%" alt="3D green contribution wall" />
 </p>
 
-### Public Key
 
-<details>
-<summary>PGP public key for n1n3bird@163.com</summary>
-
-```text
-Fingerprint: F8BD 0866 4F75 AC8F CA1C 7443 0A65 0A1C 4CE2 7AD6
-
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-mDMEakzyLRYJKwYBBAHaRw8BAQdA50rEhlSN5HF7NYgKctZdwQYRuzSUXNXBei3T
-vZ9ItHy0G24xbjNiaXJkIDxuMW4zYmlyZEAxNjMuY29tPoiZBBMWCgBBFiEE+L0I
-Zk91rI/KHHRDCmUKHEzietYFAmpM8i0CGwMFCQPCZwAFCwkIBwICIgIGFQoJCAsC
-BBYCAwECHgcCF4AACgkQCmUKHEzietYddAEA0ZIjxoVvehxnsa9QYII4XbZdp4Oz
-X3JISWVv4Tu32o0A/irSpLMLuXJHUlvsfIU7lqGE1G/8NaQ1YYIjXOw14FkMuDgE
-akzyQBIKKwYBBAGXVQEFAQEHQJ/vM/S/Z6T81hQErYhWkraW0igQPCPtaG1QiAcD
-LrkFAwEIB4h+BBgWCgAmFiEE+L0IZk91rI/KHHRDCmUKHEzietYFAmpM8kACGwwF
-CQPCZwAACgkQCmUKHEzietbDXgD6AnwzPOajZC4DWZyF3UXmn2Wb7vEEVWI88ARG
-SXfoI1oA/jFa31he+G9GHvxWLWNfzeLQNS1zj1mQSxyVa7dB/P4A
-=znf6
------END PGP PUBLIC KEY BLOCK-----
-```
-
-</details>
 
