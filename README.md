@@ -59,7 +59,6 @@ Learning security through mobile internals, firmware research, reverse engineeri
 </p>
 
 ### My Status
-[![N1n3Bird's github stats](https://github-readme-stats.vercel.app/api?username=CavanasD "![N1n3Bird's github stats")](https://github.com/anuraghazra/github-readme-stats)
-
+[![N1n3Bird's GitHub stats](https://github-stats-extended.vercel.app/api?username=CavanasD)](https://github.com/stats-organization/github-stats-extended)
 
 
